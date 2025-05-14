@@ -1,0 +1,16 @@
+<html>
+ <head>
+<title>Linear Gradient</title>
+ <style type = "text/css">
+ div
+ {   width: 500px;
+ height: 500px;
+ background: linear-gradient(45deg,violet 20%,indigo 30%,blue 40%,green 50%,yellow 60%,orange 70%,red 80% );
+ 
+}
+</style>
+ </head>
+ <body>
+<div><h2>Diagonal Linear Gradient</h2></div>
+ </body>
+ </html>

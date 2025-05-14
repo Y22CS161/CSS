@@ -1,0 +1,35 @@
+<!--inline css-->
+
+<html>
+<head>
+<title>css</title>
+</head>
+<body>
+<h2>Inline css</h2>
+<p style="color:green;font-size:20px;"font-style:'Times New Roman';"><b>Hello World</b></p>
+</body>
+</html>
+<!--embedded style sheets-->
+<hmtl>
+<head>
+<style>
+p{
+   color:green;
+   font-size:20px;
+   font-style:"Times New Roman";
+}
+</style>
+</head>
+<body>
+<h2>Embedded style sheets</h2>
+<p><b>Hello World</p>
+</body>
+</html>
+<!--external css-->
+<html>
+<link rel = "stylesheet" type = "text/css"
+ href = "a.css">
+<h2>External css</h2>
+<p><b>Hello World</b></p>
+</html>
+
